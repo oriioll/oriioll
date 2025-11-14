@@ -1,46 +1,80 @@
-# 👋 Hello! I'm Oriol Plazas
-
-Welcome to my personal corner on GitHub!
-
----
-
-## 👨‍💻 About Me
-
-I'm an **18-year-old** aspiring developer based in **Barcelona, Spain**.
-
-I am currently studying **DAWe1** (Desarrollo de Aplicaciones Web - 1st Year) and I'm passionate about building and learning new things in the tech world.
+<h1 align="center">👋 Hi there, I'm Oriol Plazas</h1>
+<h3 align="center">💻 Web Application Development (DAW) Student from Barcelona, Spain 🇪🇸</h3>
 
 ---
 
-## 🛠️ My Tech Stack
+### 📝 About Me
 
-### Known Technologies
-
-I've started my journey with foundational web development tools:
-
-* **HTML**
-* **CSS**
-
-### Currently Learning
-
-I am actively expanding my skill set to become a full-stack developer, focusing on:
-
-* **JavaScript** (The backbone of modern web interaction)
-* **Kotlin** (For mobile and backend development)
-* **SQL** (For database management)
+* 📍 **Location:** Barcelona, Spain.
+* 🎓 **Studies:** Currently pursuing the first year of **Web Application Development (DAWe1)**.
+* 💡 **Aspiring Developer:** I'm an **18-year-old** developer passionate about building and learning new things in the tech world.
+* 🚀 **Goal:** My current focus is to master my tech stack to become a versatile **full-stack developer**.
 
 ---
 
-## 🚀 Goals
+### 🛠️ Languages and Tools
 
-My current focus is to master the technologies listed above and contribute to exciting projects. Feel free to connect or check out my repositories to follow my learning progress!
+Here are the technologies I've started my journey with and those I'm actively expanding my knowledge in:
+
+<h4 align="center">Known Technologies</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+<h4 align="center">Currently Learning</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+<h4 align="center">Development Tools</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+</p>
 
 ---
 
-## ✉️ Get in Touch
+### 📊 My GitHub Activity and Stats
 
-You can reach me via email at: **oriolplazas2@gmail.com**
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=oriioll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+        <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=oriioll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6">
+        <img alt="oriioll GitHub Stats" height="150" 
+            src="https://github-readme-stats.vercel.app/api?username=oriioll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+    </picture>&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oriioll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
+        <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oriioll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true">
+        <img alt="oriioll Top Languages" height="150" 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=oriioll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
+    </picture>
+</div>
 
 ---
 
-**Thanks for stopping by!**
+### 🌐 Connect With Me
+
+<div align="center">
+    <p>
+        <a href="mailto:oriolplazas2@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+    </p>
+</div>
+
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=oriioll.oriioll&left_color=darkred&right_color=goldenrod" alt="Visitor Count" style="margin-top: 15px;" />
+</div>
+
+<div align="center">
+    <small>Thanks for stopping by!</small>
+</div>
