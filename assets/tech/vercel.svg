@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="111" height="40" viewBox="0 0 111 40" role="img" aria-label="Vercel">
+<style>
+.t{font:600 14px "Segoe UI",Helvetica,Arial,sans-serif;fill:#24292f}
+.ink{fill:#24292f}
+@media (prefers-color-scheme: dark){.t,.ink{fill:#e6edf3}}
+</style>
+<rect x="1" y="1" width="109" height="38" rx="6" ry="6" fill="#8B949E" fill-opacity="0.08" stroke="#8B949E" stroke-width="2"/>
+<svg x="12" y="9" width="22" height="22" viewBox="0 0 256 222" preserveAspectRatio="xMidYMid"><path class="ink" d="m128 0 128 221.705H0z"/></svg>
+<text class="t" x="42" y="25">Vercel</text>
+</svg>

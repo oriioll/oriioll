@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="111" height="40" viewBox="0 0 111 40" role="img" aria-label="Kotlin">
+<style>
+.t{font:600 14px "Segoe UI",Helvetica,Arial,sans-serif;fill:#24292f}
+.ink{fill:#24292f}
+@media (prefers-color-scheme: dark){.t,.ink{fill:#e6edf3}}
+</style>
+<rect x="1" y="1" width="109" height="38" rx="6" ry="6" fill="#7F52FF" fill-opacity="0.08" stroke="#7F52FF" stroke-width="2"/>
+<svg x="12" y="9" width="22" height="22" viewBox="0 0 256 256" preserveAspectRatio="xMidYMid"><defs><linearGradient x1="99.991%" y1="-.011%" x2=".01%" y2="100.01%" id="kotlin__a"><stop stop-color="#E44857" offset=".344%"/><stop stop-color="#C711E1" offset="46.89%"/><stop stop-color="#7F52FF" offset="100%"/></linearGradient></defs><path fill="url(#kotlin__a)" d="M256 256H0V0h256L128 127.949z"/></svg>
+<text class="t" x="42" y="25">Kotlin</text>
+</svg>

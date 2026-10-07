@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="40" viewBox="0 0 102 40" role="img" aria-label="HTML5">
+<style>
+.t{font:600 14px "Segoe UI",Helvetica,Arial,sans-serif;fill:#24292f}
+.ink{fill:#24292f}
+@media (prefers-color-scheme: dark){.t,.ink{fill:#e6edf3}}
+</style>
+<rect x="1" y="1" width="100" height="38" rx="6" ry="6" fill="#E34F26" fill-opacity="0.08" stroke="#E34F26" stroke-width="2"/>
+<svg x="12" y="9" width="22" height="22" viewBox="0 0 452 520"><path fill="#e34f26" d="M41 460L0 0h451l-41 460-185 52"/><path fill="#ef652a" d="M226 472l149-41 35-394H226"/><path fill="#ecedee" d="M226 208h-75l-5-58h80V94H84l15 171h127zm0 147l-64-17-4-45h-56l7 89 117 32z"/><path fill="#fff" d="M226 265h69l-7 73-62 17v59l115-32 16-174H226zm0-171v56h136l5-56z"/></svg>
+<text class="t" x="42" y="25">HTML5</text>
+</svg>
